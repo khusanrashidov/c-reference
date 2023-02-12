@@ -79,10 +79,10 @@ int main()
 // unsigned short int			%hu							0 to 65,535														16
 // signed short int				%hd							Same as															short int 16
 // long int						%ld, %li					-2,147,483,647 to 2,147,483,647									32
-// long long int				%lld, %lli					-(263 – 1) to 263 – 1 (It will be added by the C99 standard)	64
+// long long int				%lld, %lli					-(263 â€“ 1) to 263 â€“ 1 (It will be added by the C99 standard)	64
 // signed long int				%ld, %li					Same as long int												32
 // unsigned long int			%lu							0 to 4,294,967,295												32
-// unsigned long long int		%llu						264 – 1 (It will be added by the C99 standard)					64
+// unsigned long long int		%llu						264 â€“ 1 (It will be added by the C99 standard)					64
 // float						%f							1E-37 to 1E+37 along with six digits of the precisions here		32
 // double						%lf							1E-37 to 1E+37 along with six digits of the precisions here		64
 // long double					%Lf							1E-37 to 1E+37 along with six digits of the precisions here		80
